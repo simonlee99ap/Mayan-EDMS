@@ -83,6 +83,10 @@ hr {
     margin-bottom: 11px;
 }
 
+#input-submit-btn {
+    background-color: #716f6f;
+}
+
 .btn-block {
     border-top: 2px solid rgba(255, 255, 255, 0.7);
     border-left: 2px solid rgba(255, 255, 255, 0.7);
@@ -211,6 +215,10 @@ a i {
 
 .panel-item:not(.panel-highlighted):hover  {
     box-shadow: 0px 0px 8px #000000;
+}
+
+span.pull-left {
+    color: #3446ab;
 }
 
 /* Content */
